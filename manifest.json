@@ -1,7 +1,7 @@
 {
   "name": "Blockstack Stack SDK Example",
   "short_name": "blockstack-sdk-example",
-  "start_url": ".",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fff",
   "description": "An example app for the Blockstack Android SDK",
