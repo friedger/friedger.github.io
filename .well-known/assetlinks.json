@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.blockstack.android",
+    "sha256_cert_fingerprints":
+    ["89:BB:2E:61:26:BB:90:76:B3:C2:E2:AD:AA:8B:96:65:8A:CA:41:BF:EE:4B:12:12:B6:AD:41:91:B2:72:A6:A5"]
+  }
+}]
