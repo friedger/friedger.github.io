@@ -6,11 +6,11 @@
   "background_color": "#fff",
   "description": "An example app for the Blockstack Android SDK",
   "icons": [{
-    "src": "images/blockstack48.png",
+    "src": "https://friedger.github.io/images/blockstack48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "images/blockstack96.png",
+    "src": "https://friedger.github.io/images/blockstack96.png",
     "sizes": "96x96",
     "type": "image/png"
   }]
